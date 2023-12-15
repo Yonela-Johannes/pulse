@@ -50,4 +50,4 @@ You can check out a live demo of the application [here](https://be-pleasered-by-
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/blood-donation-mern.git
+   git clone https://github.com/Yonela-Johannes/pulse.git
